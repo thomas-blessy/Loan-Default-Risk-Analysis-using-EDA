@@ -1,6 +1,6 @@
 # Loan-Default-Risk-Analysis-using-EDA
 
-This project, titled "EDA: Bank Loan Default Risk Analysis," is based on a case study from Kaggle by Amrita Chatterjee and Padma A. While I have taken inspiration from their work, I have conducted all analyses independently and made modifications where necessary to enhance the project.
+This project is based on "EDA: Bank Loan Default Risk Analysis" by Amrita Chatterjee and Padma A, licensed under Apache 2.0 License.  While I have taken inspiration from their work, I have conducted all analyses independently and made modifications where necessary to enhance the project. The original work can be found at (https://www.kaggle.com/code/amritachatterjee09/eda-bank-loan-default-risk-analysis/notebook).
 
 ## Project Description
 The primary objective of this case study is to identify patterns that indicate whether a client may struggle to pay their installments. This analysis can guide the bank in making informed decisions regarding loan approvals, such as denying loans, reducing loan amounts, or adjusting interest rates for higher-risk applicants. The goal is to ensure that clients who are capable of repaying their loans are not unjustly rejected.
